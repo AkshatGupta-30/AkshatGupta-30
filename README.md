@@ -31,10 +31,10 @@
 | 🛠️ | **Others** | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) |
 
 ## 📊 GitHub Stats
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkshatGupta-30&layout=compact) | ![Akshat's GitHub stats](https://github-readme-stats.vercel.app/api?username=AkshatGupta-30&show_icons=true&theme=aura) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkshatGupta-30&layout=compact&theme=aura) | ![Akshat's GitHub stats](https://github-readme-stats.vercel.app/api?username=AkshatGupta-30&show_icons=true&theme=aura) |
 | --- | --- |
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshatgupta-30" alt="akshatgupta-30" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshatgupta-30&theme=dracula" alt="akshatgupta-30" /></a> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AkshatGupta-30&label=Profile%20views&color=brightgreen&style=flat" alt="akshatgupta-30" /> </p>
 
