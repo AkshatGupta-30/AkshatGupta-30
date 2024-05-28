@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akshat Gupta</h1>
 <h3 align="center">A passionate Application Developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AkshatGupta-30&label=Profile%20views&color=brightgreen&style=flat" alt="akshatgupta-30" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshatgupta-30" alt="akshatgupta-30" /></a> </p>
-
-<p align="left"> 
+<p align="center"> 
   <a href="https://twitter.com/akshat_gupta_30" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="akshat_gupta_30" /></a>
     <a href="https://linkedin.com/in/akshatgupta30" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="akshat_gupta_30" /></a>
       <a href="https://www.instagram.com/_._akshat.gupta_._/" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
@@ -37,5 +33,9 @@
 ## 📊 GitHub Stats
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkshatGupta-30&layout=compact) | ![Akshat's GitHub stats](https://github-readme-stats.vercel.app/api?username=AkshatGupta-30&show_icons=true&theme=aura) |
 | --- | --- |
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshatgupta-30" alt="akshatgupta-30" /></a> </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AkshatGupta-30&label=Profile%20views&color=brightgreen&style=flat" alt="akshatgupta-30" /> </p>
 
 
