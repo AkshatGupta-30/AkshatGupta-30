@@ -84,5 +84,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ## 📊 GitHub Stats
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkshatGupta-30&layout=compact) | ![Akshat's GitHub stats](https://github-readme-stats.vercel.app/api?username=AkshatGupta-30&show_icons=true&theme=aura) |
+| --- | --- |
 
-![Akshat's GitHub stats](https://github-readme-stats.vercel.app/api?username=AkshatGupta-30&show_icons=true&theme=aura)
+
