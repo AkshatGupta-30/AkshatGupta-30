@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Polling Day**
 
-- 🌱 I’m currently learning **MlOps**
+- 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **Flutter**
 
