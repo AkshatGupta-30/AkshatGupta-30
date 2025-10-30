@@ -10,9 +10,9 @@
 
 - 🔭 I’m currently working on **Polling Day**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Android Ios Swift Development**
 
-- 💬 Ask me about **Flutter**
+- 💬 Ask me about **React Native**
 
 - 📫 How to reach me **akshatgupta0030@gmail.com**
 
