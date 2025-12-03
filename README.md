@@ -6,11 +6,11 @@
     <a href="https://linkedin.com/in/akshatgupta30" target="blank"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="akshatgupta0030" /></a>
 </p>
 
-- 🔭 I’m currently working on **Polling Day**
+- 🔭 I’m currently working on **Tier** - A bookmark manager
 
-- 🌱 I’m currently learning **Android Ios Swift Development**
+- 🌱 I’m currently learning **Flask**
 
-- 💬 Ask me about **React Native**
+- 💬 Ask me about **React Native** | **React** | **Javascript**
 
 - 📫 How to reach me **akshatgupta0030@gmail.com**
 
